@@ -51,7 +51,7 @@
     "main": "d3.js"
   },
   "dependencies": {
-    "jsdom": "1.0.0"
+    "jsdom": "16.5.0"
   },
   "devDependencies": {
     "smash": "~0.0.12",
